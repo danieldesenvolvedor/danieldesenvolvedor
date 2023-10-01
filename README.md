@@ -13,7 +13,3 @@ Sou João Daniel, um entusiasta da tecnologia com paixão por Desenvolvimento. N
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldesenvolvedor&layout=compact&bg_color=00000000" />
 </div>	
 
-  ![Snake animation](https://github.com/danieldesenvolvedor/danieldesenvolvedor/blob/output/github-contribution-grid-snake.svg)
-
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=danieldesenvolvedor&repo=danieldesenvolvedor&theme=react)](https://github.com/danieldesenvolvedor/danieldesenvolvedor)
